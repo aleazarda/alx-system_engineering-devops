@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a ./, ../, 0-commas, 0-commas-checks/, 1-empty_casks, 2-gifs, 3-directories, 4-zeros, 5-rot13, 6-odd, 7-sort_rot13, Makefile, quote, .test, test_dir/, test.var
+ls -a ./, ../, 103-commas, file0.c, file1.c
