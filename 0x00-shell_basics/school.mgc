@@ -1,2 +1,4 @@
 #!/bin/bash
-0 string SCHOOL School data l:data mime school
+0 string SCHOOL School data 
+l:data mime school
+file _c _m school.mgc
