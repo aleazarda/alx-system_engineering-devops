@@ -1,1 +1,1 @@
-Write a script that prints the absolute path name of the current working directory.
+create a script that switchs the current user to the user betty
