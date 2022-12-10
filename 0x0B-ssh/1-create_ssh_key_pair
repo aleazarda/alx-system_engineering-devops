@@ -7,4 +7,4 @@
 # -f = filename of the keyfile
 # -b = number of bits in the key to create
 # -N = new passphrase
-ssh-keygen -f school -b 4096 -N betty
+ssh-keygen -t rsa -f school -b 4096 -N betty
