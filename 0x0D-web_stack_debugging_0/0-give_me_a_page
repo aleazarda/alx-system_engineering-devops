@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # restart/start apache2 2
-echo 'Hello Holberton' > /var/www/html/index.html
+echo "ServerName localhost" >> /etc/apache2.conf
 sudo service apache2 restart
