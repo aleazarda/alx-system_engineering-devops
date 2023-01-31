@@ -2,13 +2,10 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Sep 17 11:47:53 2020
-
 @author: Robinson Montes
 """
 from json import loads
 from requests import get
-
-
 def recurse(subreddit, hot_list=[]):
     """recursive function that queries the Reddit API and returns a list
     containing the titles of all hot articles for a given subreddit. If no
